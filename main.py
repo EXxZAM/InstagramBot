@@ -7,15 +7,6 @@ root.geometry('600x400')
 background = '#0d1b2a'
 root.config(bg=background)
 
-## TODOS =>
-##!         UserName Label, Entry           ✔
-##!         PassWord Label, Entry           ✔
-##!         Count Label, Entry              ✔
-##!         send EndMessage radiobox
-##!         Confirm Button
-##!         Exit Button
-##!         Followed People LabelList
-
 def sel():
     print('1')
 
